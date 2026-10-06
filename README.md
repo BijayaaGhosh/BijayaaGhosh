@@ -1,6 +1,6 @@
 ## Hi, I'm Bijaya 👋
 
-MCA graduate from Guwahati, India. I'm building my skills in Python and web development.
+MCA graduate  | Python • JavaScript | Learning full-stack development 
 
 ### 🛠️ Tech Stack
 
